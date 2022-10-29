@@ -15,6 +15,8 @@ certifi==2022.9.24
 cffi==1.15.1
 charset-normalizer==2.1.1
 colorama==0.4.6
+contourpy==1.0.5
+cycler==0.11.0
 debugpy==1.6.3
 decorator==5.1.1
 defusedxml==0.7.1
@@ -22,6 +24,7 @@ dill==0.3.6
 entrypoints==0.4
 executing==1.1.1
 fastjsonschema==2.16.2
+fonttools==4.38.0
 google-auth==2.13.0
 google-auth-oauthlib==0.4.6
 grpcio==1.50.0
@@ -40,9 +43,11 @@ jupyter_core==4.11.2
 jupyterlab==3.5.0
 jupyterlab-pygments==0.2.2
 jupyterlab_server==2.16.1
+kiwisolver==1.4.4
 lazy-object-proxy==1.8.0
 Markdown==3.4.1
 MarkupSafe==2.1.1
+matplotlib==3.6.1
 matplotlib-inline==0.1.6
 mccabe==0.7.0
 mistune==2.0.4
