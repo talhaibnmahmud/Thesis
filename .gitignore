@@ -167,3 +167,6 @@ dataset/
 
 # Tensorboard logs
 runs/
+
+# Dataset folders
+data/
