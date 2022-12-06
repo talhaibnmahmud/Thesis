@@ -40,7 +40,7 @@ jsonschema==4.16.0
 jupyter-server==1.21.0
 jupyter_client==7.4.4
 jupyter_core==4.11.2
-jupyterlab==3.5.0
+jupyterlab==3.5.1
 jupyterlab-pygments==0.2.2
 jupyterlab_server==2.16.1
 kiwisolver==1.4.4
@@ -66,7 +66,7 @@ pandas==1.5.2
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
-Pillow==9.2.0
+Pillow==9.3.0
 platformdirs==2.5.2
 prometheus-client==0.15.0
 prompt-toolkit==3.0.31

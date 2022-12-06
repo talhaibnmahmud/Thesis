@@ -170,3 +170,6 @@ runs/
 
 # Dataset folders
 data/
+
+# Logs
+logs/
