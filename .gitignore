@@ -173,3 +173,6 @@ data/
 
 # Logs
 logs/
+
+# Intermediate states
+model_states/
