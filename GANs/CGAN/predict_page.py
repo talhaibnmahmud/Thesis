@@ -64,7 +64,7 @@ def generate_img_page():
                 st.image(result, caption=text)
 
         elif model_name == chest_categories[1]:
-            text = f"Choice: {chest_categories[0]}"
+            text = f"Choice: {chest_categories[1]}"
 
             image_shape = (3, 128, 128)
             generator = Generator(
